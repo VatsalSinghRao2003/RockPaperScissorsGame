@@ -48,8 +48,7 @@ rock-paper-scissors/
 ## 🚀 Getting Started Locally
 
 Follow these steps to run the project locally:
-
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/VatsalSinghRao2003/RockPaperScissorsGame.git
