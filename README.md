@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/VatsalSinghRao2003/RockPaperScissorsGame.git
 cd RockPaperScissorsGame
 
-### 2. Open the Game
+2. Open the Game
 Simply open the index.html file in your browser:
 start index.html
 
