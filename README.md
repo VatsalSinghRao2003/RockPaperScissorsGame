@@ -42,3 +42,42 @@ rock-paper-scissors/
 ├── pap.png
 └── sci.png
 
+
+---
+
+## 🚀 Getting Started Locally
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/VatsalSinghRao2003/RockPaperScissorsGame.git
+cd RockPaperScissorsGame
+
+### 2. Open the Game
+Simply open the index.html file in your browser:
+start index.html
+
+
+🌐 Deployment
+📦 GitHub Pages
+Push your code to GitHub
+
+Go to Settings > Pages
+
+Set source to the main branch and root directory
+
+Your site will be live at:
+https://vatsalsinghrao2003.github.io/RockPaperScissorsGame
+
+🚀 Netlify
+Go to https://app.netlify.com
+Click Add new site → Deploy manually
+Drag and drop your project folder
+Netlify will host your site instantly
+
+
+
+🙋‍♂️ Author
+Developed with ❤️ by Vatsal Singh Rao
